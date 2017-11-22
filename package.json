@@ -1,0 +1,27 @@
+{
+  "name": "schedule-calendar",
+  "version": "1.0.0",
+  "description": "vue components",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roninliu/schedule-calendar.git"
+  },
+  "keywords": [
+    "vue",
+    "schedule",
+    "calendar",
+    "components",
+    "es",
+    "javascript"
+  ],
+  "author": "roninliu@foxmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roninliu/schedule-calendar/issues"
+  },
+  "homepage": "https://github.com/roninliu/schedule-calendar#readme"
+}
